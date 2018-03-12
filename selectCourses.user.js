@@ -15,7 +15,6 @@
 (function () {
     'use strict';
 
-    // Your code here...
     // 提取课程号和班级号的正则
     const regId = /selectCourse-detail-noLearn.asp\?kcbh=(\d+)&bjdm=(\d+)/;
 
@@ -40,5 +39,5 @@
             classId = ids[2];
         // noinspection SpellCheckingInspection
         $(this).parent().prev().prev().html(`<input type="checkbox" name="cboke" value="${courseId}${classId}">`);
-    })
+    });
 })();
