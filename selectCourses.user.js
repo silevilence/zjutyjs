@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         zjutyjs_selectCourses
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/silevilence/zjutyjs
 // @version      0.2
 // @description  improve the selectCourse pages
 // @author       Silevilence
