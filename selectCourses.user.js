@@ -1,11 +1,9 @@
 // ==UserScript==
 // @name         zjutyjs_selectCourses
 // @namespace    https://github.com/silevilence/zjutyjs
-// @version      0.2
+// @version      0.3
 // @description  improve the selectCourse pages
 // @author       Silevilence
-// @require      https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.18.2/babel.js
-// @require      https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.16.0/polyfill.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js
 // @match        http://yjs.zjut.edu.cn/tasks/selectCourse-tree.asp
 // @match        http://yjs.zjut.edu.cn/tasks/selectCourse-master.asp
